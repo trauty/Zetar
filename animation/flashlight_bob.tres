@@ -1,0 +1,14 @@
+[gd_resource type="Animation" format=2]
+
+[resource]
+resource_name = "flashlight_bob"
+length = 0.8
+loop = true
+step = 0.01
+tracks/0/type = "transform"
+tracks/0/path = NodePath("Flashlight")
+tracks/0/interp = 1
+tracks/0/loop_wrap = true
+tracks/0/imported = false
+tracks/0/enabled = true
+tracks/0/keys = PoolRealArray( 0, 1, 0.08, -0.08, 0, 0, 0, 0, 1, 0.75, 0.75, 0.75, 0.2, 1, 0.1, -0.093, 0, 0, 0, 0, 1, 0.75, 0.75, 0.75, 0.4, 1, 0.12, -0.08, 0, 0, 0, 0, 1, 0.75, 0.75, 0.75, 0.6, 1, 0.1, -0.093, 0, 0, 0, 0, 1, 0.75, 0.75, 0.75, 0.8, 1, 0.08, -0.08, 0, 0, 0, 0, 1, 0.75, 0.75, 0.75 )
